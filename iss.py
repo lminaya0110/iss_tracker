@@ -27,7 +27,7 @@ worksheet.title = "{}Coordinates"
 
 # Add data to the worksheet
 worksheet['A1'] = "lat"
-worksheet['B1'] = "long"
+worksheet['B1'] = "lng"
 
 worksheet['A2'] = lat
 worksheet['B2'] = long
